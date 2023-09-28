@@ -1,2 +1,2 @@
 # zortsms
-Turkish SMS&amp;Email attack tool!
+i losted files of zortsms
